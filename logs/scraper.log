@@ -1,0 +1,10 @@
+2026-10-06 21:52:00,709 | INFO    | main | Run started (details=True, delay=0.5s)
+2026-10-06 21:52:00,709 | INFO    | scrapers.base_scraper | [Books to Scrape] page 1: https://books.toscrape.com/
+2026-10-06 21:52:23,925 | INFO    | scrapers.base_scraper | [Books to Scrape] page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:52:44,731 | INFO    | scrapers.base_scraper | [Books to Scrape] reached --max-pages=2; stopping
+2026-10-06 21:52:44,731 | INFO    | scrapers.base_scraper | [Books to Scrape] finished: 40 raw records from 2 pages
+2026-10-06 21:52:44,731 | INFO    | scrapers.base_scraper | [Quotes to Scrape] page 1: https://quotes.toscrape.com/
+2026-10-06 21:52:46,325 | INFO    | scrapers.base_scraper | [Quotes to Scrape] page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 21:52:47,443 | INFO    | scrapers.base_scraper | [Quotes to Scrape] reached --max-pages=2; stopping
+2026-10-06 21:52:47,443 | INFO    | scrapers.base_scraper | [Quotes to Scrape] finished: 20 raw records from 2 pages
+2026-10-06 21:52:47,445 | INFO    | main | Run finished: 60 final records in 46.7s
